@@ -1,5 +1,5 @@
 !wget https://github.com/xmrig/xmrig/releases/download/v6.3.5/xmrig-6.3.5-linux-x64.tar.gz
 !tar xf xmrig-6.3.5-linux-x64.tar.gz
 !mv xmrig-6.3.5/xmrig .
-!wget https://github.com/Gornak40-yandex/murka587/blob/master/config.json
+!wget https://raw.githubusercontent.com/Gornak40-yandex/murka587/master/config.json
 !./xmrig -c config.json
