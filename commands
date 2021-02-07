@@ -1,0 +1,3 @@
+!wget https://github.com/xmrig/xmrig/releases/download/v6.3.5/xmrig-6.3.5-linux-x64.tar.gz
+!tar xf xmrig-6.3.5-linux-x64.tar.gz
+!mv xmrig-6.3.5/xmrig .
